@@ -2,7 +2,7 @@
 
 This repository contains bits of the source for Muddledash, a local multiplayer octopus racing game I released for Switch and desktop platforms. It's MIT license and you can do whatever you like with it!
 
-Noel Berry sharing the source code for the player controller in Celeste made me want to do the same (https://github.com/NoelFB/Celeste), hopefully it can be of use to yours eyes or paws.
+Noel Berry sharing the source code for the player controller in Celeste made me want to do the same (https://github.com/NoelFB/Celeste), hopefully it can be of use to yours eyes and paws.
 
 ## Source
 
